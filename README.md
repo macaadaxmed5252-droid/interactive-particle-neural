@@ -27,4 +27,4 @@ Neural Interaction System waa mashruuc farshaxan dhijitaal ah (Interactive Digit
 
 1. **Soo degso (Clone) mashruucan:**
 ```bash
-   git clone [https://github.com/YOUR-USERNAME/interactive-particle-neural.git](https://github.com/YOUR-USERNAME/interactive-particle-neural.git)
+    git clone [https://github.com/macaadaxmed5252-droid/3d-perspective-card.git](https://github.com/macaadaxmed5252-droid/3d-perspective-card.git)
